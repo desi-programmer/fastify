@@ -3,4 +3,4 @@
 
 ## Blogs
 
-`[Getting Started ](https://desiprogrammer.com/blogs/lets-learn-fastify-js)`
+[`Getting Started`](https://desiprogrammer.com/blogs/lets-learn-fastify-js)
