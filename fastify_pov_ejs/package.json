@@ -1,0 +1,17 @@
+{
+  "name": "fastify_pov_ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "fastify": "^3.28.0",
+    "point-of-view": "^5.2.0"
+  }
+}
